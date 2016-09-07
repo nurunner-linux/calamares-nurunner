@@ -2,17 +2,17 @@
 componentName:  netrunner-rolling
 
 strings:
-    productName:         Netrunner
-    shortProductName:    Netrunner
+    productName:         Nurunner
+    shortProductName:    Nurunner
     version:             Rolling
     shortVersion:        Rolling
-    versionedName:       Netrunner Rolling Edition
-    shortVersionedName:  Netrunner Rolling
-    bootloaderEntryName: Netrunner Rolling
+    versionedName:       Nurunner Rolling Edition
+    shortVersionedName:  Nurunner Rolling
+    bootloaderEntryName: Nurunner Rolling
 
 images:
-    productLogo:         "netrunner-rolling-logo.png"
-    productIcon:         "netrunner-rolling-icon.png"
+    productLogo:         "nurunner-logo-full.png"
+    productIcon:         "nurunner-logo.png"
 
 slideshow:               "show.qml"
 
