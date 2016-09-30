@@ -1,14 +1,14 @@
 ---
-componentName:  netrunner-rolling
+componentName:  nurunner
 
 strings:
-    productName:         Nurunner
+    productName:         Nurunner Linux
     shortProductName:    Nurunner
-    version:             Rolling
-    shortVersion:        Rolling
-    versionedName:       Nurunner Rolling Edition
-    shortVersionedName:  Nurunner Rolling
-    bootloaderEntryName: Nurunner Rolling
+    version:             16.10
+    shortVersion:        16.10
+    versionedName:       Nurunner Linux 16.10
+    shortVersionedName:  Nurunner 16.10
+    bootloaderEntryName: Nurunner Linux
 
 images:
     productLogo:         "nurunner-logo-full.png"
