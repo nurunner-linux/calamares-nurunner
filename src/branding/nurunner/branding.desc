@@ -4,10 +4,10 @@ componentName:  nurunner
 strings:
     productName:         Nurunner
     shortProductName:    Nurunner
-    version:             16.12
-    shortVersion:        16.12
-    versionedName:       Nurunner 16.12
-    shortVersionedName:  Nurunner 16.12
+    version:             17.03
+    shortVersion:        17.03
+    versionedName:       Nurunner 17.03
+    shortVersionedName:  Nurunner 17.03
     bootloaderEntryName: Nurunner
 
 images:
